@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1366"
+   height="2000"
+   viewBox="0 0 1366 2000"
+   id="svg4473"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="bootstrap-grid-940.svg">
+  <defs
+     id="defs4475">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-193.24475 : 595.30653 : 1"
+       inkscape:vp_y="0 : 1246.1075 : 0"
+       inkscape:vp_z="1043.6266 : 595.30653 : 1"
+       inkscape:persp3d-origin="425.19094 : 376.74712 : 1"
+       id="perspective5127" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5125"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5121"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5117"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5113"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5109"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5105"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5101"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5097"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4553"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4509"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4505"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4501"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4497"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4493"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4489"
+       is_visible="true" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-17.311466 : 593.94054 : 1"
+       inkscape:vp_y="0 : 1246.1075 : 0"
+       inkscape:vp_z="1298.7511 : 593.94054 : 1"
+       inkscape:persp3d-origin="640.71983 : 375.38113 : 1"
+       id="perspective5127-0" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5"
+     inkscape:cx="500.90227"
+     inkscape:cy="1549.1481"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:snap-to-guides="true"
+     units="px"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1440"
+     inkscape:window-height="801"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1">
+    <!--
+
+        Width of document is set to 1366. This is the most popular screen
+        size in 2015.
+
+        Guides
+        ======
+        
+        Start guide: (1366 - 940) / 2 = 213
+
+        1:  213                     
+        2:  213 + 78.33333 = 291.33333
+        3:  291.33333 + 78.33333 = 369.66666
+        4:  369.66666 + 78.33333 = 447.99999
+        5:  447.99999 + 78.33333 = 526.33332
+        6:  526.33332 + 78.33333 = 604.66665
+        7:  604.66665 + 78.33333 = 682.99998
+        8:  682.99998 + 78.33333 = 761.33331
+        9:  761.33331 + 78.33333 = 839.66664
+        10: 839.66664 + 78.33333 = 917.99997 
+        11: 917.99997 + 78.33333 = 996.33333
+        12: 996.33333 + 78.33333 = 1074.666673  
+        13: 1074.666673 + 78.33333 = 1152.99996
+
+      !-->
+    <inkscape:grid
+       type="xygrid"
+       id="grid4481" />
+    <!-- First Grid Item !-->
+    <sodipodi:guide
+       position="213"
+       orientation="1,0"
+       id="guide1"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <!-- Second Grid Item !-->
+    <sodipodi:guide
+       position="291.33333"
+       orientation="1,0"
+       id="guide2"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <!-- Third Grid Item !-->
+    <sodipodi:guide
+       position="369.66666"
+       orientation="1,0"
+       id="guide3"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <!-- Forth Grid Item !-->
+    <sodipodi:guide
+       position="447.99999"
+       orientation="1,0"
+       id="guide4"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <!-- Fifth Grid Item !-->
+    <sodipodi:guide
+       position="526.33332"
+       orientation="1,0"
+       id="guide5"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <!-- Sixth Grid Item !-->
+    <sodipodi:guide
+       position="604.66665"
+       orientation="1,0"
+       id="guide6"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <!-- Seventh Grid Item !-->
+    <sodipodi:guide
+       position="682.99998"
+       orientation="1,0"
+       id="guide7"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <!-- Eigth Grid Item !-->
+    <sodipodi:guide
+       position="761.33331"
+       orientation="1,0"
+       id="guide8"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <!-- Ninth Grid Item !-->
+    <sodipodi:guide
+       position="839.66664"
+       orientation="1,0"
+       id="guide9"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <!-- Tenth Grid Item !-->
+    <sodipodi:guide
+       position="917.99997"
+       orientation="1,0"
+       id="guide10"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <!-- Eleventh Grid Item !-->
+    <sodipodi:guide
+       position="996.33333"
+       orientation="1,0"
+       id="guide11"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <!-- Twelth Grid Item !-->
+    <sodipodi:guide
+       position="1074.66667"
+       orientation="1,0"
+       id="guide12"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <!-- Last Grid Item !-->
+    <sodipodi:guide
+       position="1152.99996"
+       orientation="1,0"
+       id="guide13"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="761.33331,1228"
+       orientation="0,1"
+       id="guide4175" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4478">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,947.6378)">
+    <path
+       style="fill:#f2f2f2"
+       d=""
+       id="path4521"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
