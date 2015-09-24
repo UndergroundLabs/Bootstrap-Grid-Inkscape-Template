@@ -21,4 +21,4 @@ I created the template with a width of 1366px. Why? Because this is the most pop
     10th Guide:  839.66664 + 78.33333 	= 917.99997
     11th Guide:  917.99997 + 78.33333 	= 996.33333
     12th Guide:  996.33333 + 78.33333 	= 1074.66667
-    13th Guide:  1074.666673 + 78.33333 = 1152.99996
+    13th Guide:  1074.66667 + 78.33333 = 1152.99996
