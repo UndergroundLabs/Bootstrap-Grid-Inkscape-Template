@@ -1,5 +1,5 @@
 # Inkscape Bootstrap 940px Grid Template
-> Inkscape > (Photoshop | Illustrator) <3**
+> Inkscape > (Photoshop | Illustrator) <3
 
 Here is my personal web design template I created for Inkscape.
 
